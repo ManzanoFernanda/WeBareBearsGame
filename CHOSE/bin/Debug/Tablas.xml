@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Puntajes>
+    <Nombre>pepe</Nombre>
+    <Puntos>100</Puntos>
+  </Puntajes>
+  <Puntajes>
+    <Nombre>pepa</Nombre>
+    <Puntos>100</Puntos>
+  </Puntajes>
+</DocumentElement>
